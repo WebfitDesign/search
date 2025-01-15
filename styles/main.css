@@ -1,0 +1,52 @@
+.banner {
+  background-color: #b4d2ba;
+  margin: 0;
+  text-align: center;
+  padding: 100px 0;
+
+  h1 {
+    color: #345200;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  h2 {
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #345200;
+  }
+}
+
+.header-bar {
+  height: 60px;
+  display: flex;
+  align-items: center;
+
+  .menu-wrapper {
+    justify-content: end;
+    display: flex;
+  }
+}
+
+.filter-wrapper {
+  display: flex;
+  margin: 40px 0;
+
+  .filter-search {
+    background-color: #ebebe9;
+    padding: 40px;
+    border-radius: 10px;
+  }
+
+  .filter-results {
+    background-color: #b4d2ba;
+    border: 2px solid #344e41;
+    border-radius: 10px;
+    padding: 40px;
+  }
+
+  .btn {
+    margin: 20px 0;
+  }
+}
