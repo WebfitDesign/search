@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://www.20i.com/reseller-hosting",
+    "packages": [
+      {
+        "packageTitle": "Reseller 50",
+        "websiteLimit": "50",
+        "ssdStorage": "Unlimited"
+      },
+      {
+        "packageTitle": "Reseller 500",
+        "websiteLimit": "500",
+        "ssdStorage": "Unlimited"
+      },
+      {
+        "packageTitle": "Reseller Unlimited",
+        "websiteLimit": "Unlimited",
+        "ssdStorage": "Unlimited"
+      }
+    ]
+  },
+  {
+    "url": "https://www.fasthosts.co.uk/web-hosting",
+    "packages": [
+      {
+        "packageTitle": "Start",
+        "websiteLimit": "1",
+        "ssdStorage": "100GB"
+      },
+      {
+        "packageTitle": "Grow",
+        "websiteLimit": "3",
+        "ssdStorage": "250GB"
+      },
+      {
+        "packageTitle": "Scale",
+        "websiteLimit": "10",
+        "ssdStorage": "350GB"
+      },
+      {
+        "packageTitle": "Pro",
+        "websiteLimit": "100",
+        "ssdStorage": "500GB"
+      }
+    ]
+  },
+  {
+    "url": "https://www.a2hosting.com/web-hosting/",
+    "packages": [
+      {
+        "packageTitle": "Ignite",
+        "websiteLimit": "1 Website",
+        "ssdStorage": "10 GB SSD Storage"
+      },
+      {
+        "packageTitle": "Accel",
+        "websiteLimit": "Unlimited Websites",
+        "ssdStorage": "Unlimited SSD Storage"
+      },
+      {
+        "packageTitle": "Turbo Velocity",
+        "websiteLimit": "Unlimited Websites",
+        "ssdStorage": "Unlimited NVMe Storage"
+      },
+      {
+        "packageTitle": "Turbo Nitro",
+        "websiteLimit": "Unlimited Websites",
+        "ssdStorage": "Unlimited NVMe Storage"
+      }
+    ]
+  }
+]
