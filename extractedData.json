@@ -9,11 +9,13 @@
         "ssdStorage": "Unlimited"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Reseller 500",
         "websiteLimit": "500",
         "ssdStorage": "Unlimited"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Reseller Unlimited",
         "websiteLimit": "Unlimited",
         "ssdStorage": "Unlimited"
@@ -24,21 +26,25 @@
     "url": "https://www.fasthosts.co.uk/web-hosting",
     "packages": [
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Start",
         "websiteLimit": "1",
         "ssdStorage": "100GB"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Grow",
         "websiteLimit": "3",
         "ssdStorage": "250GB"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Scale",
         "websiteLimit": "10",
         "ssdStorage": "350GB"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Pro",
         "websiteLimit": "100",
         "ssdStorage": "500GB"
@@ -49,21 +55,25 @@
     "url": "https://www.a2hosting.com/web-hosting/",
     "packages": [
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Ignite",
         "websiteLimit": "1 Website",
         "ssdStorage": "10 GB SSD Storage"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Accel",
         "websiteLimit": "Unlimited Websites",
         "ssdStorage": "Unlimited SSD Storage"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Turbo Velocity",
         "websiteLimit": "Unlimited Websites",
         "ssdStorage": "Unlimited NVMe Storage"
       },
       {
+        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
         "packageTitle": "Turbo Nitro",
         "websiteLimit": "Unlimited Websites",
         "ssdStorage": "Unlimited NVMe Storage"
