@@ -1,0 +1,77 @@
+[
+  {
+    "_id": {
+      "$oid": "64bc22876e40c1fa9f63411g"
+    },
+    "companyName": "20i",
+    "packageTitle": "Reseller 50",
+    "websiteLimit": "50",
+    "ssdStorage": "Unlimited"
+  },
+  {
+    "companyName": "20i",
+    "packageTitle": "Reseller 500",
+    "websiteLimit": "500",
+    "ssdStorage": "Unlimited"
+  },
+  {
+    "companyName": "20i",
+    "packageTitle": "Reseller Unlimited",
+    "websiteLimit": "Unlimited",
+    "ssdStorage": "Unlimited"
+  },
+  {
+    "_id": {
+      "$oid": "64bc22876e40c1fa9f63422i"
+    },
+    "companyName": "Fasthosts",
+    "packageTitle": "Start",
+    "websiteLimit": "1",
+    "ssdStorage": "100GB"
+  },
+  {
+    "companyName": "Fasthosts",
+    "packageTitle": "Grow",
+    "websiteLimit": "3",
+    "ssdStorage": "250GB"
+  },
+  {
+    "companyName": "Fasthosts",
+    "packageTitle": "Scale",
+    "websiteLimit": "10",
+    "ssdStorage": "350GB"
+  },
+  {
+    "companyName": "Fasthosts",
+    "packageTitle": "Pro",
+    "websiteLimit": "100",
+    "ssdStorage": "500GB"
+  },
+  {
+    "_id": {
+      "$oid": "64bc22876e40c1fa9f63455f"
+    },
+    "companyName": "A2 Hosting",
+    "packageTitle": "Ignite",
+    "websiteLimit": "1 Website",
+    "ssdStorage": "10 GB SSD Storage"
+  },
+  {
+    "companyName": "A2 Hosting",
+    "packageTitle": "Accel",
+    "websiteLimit": "Unlimited Websites",
+    "ssdStorage": "Unlimited SSD Storage"
+  },
+  {
+    "companyName": "A2 Hosting",
+    "packageTitle": "Turbo Velocity",
+    "websiteLimit": "Unlimited Websites",
+    "ssdStorage": "Unlimited NVMe Storage"
+  },
+  {
+    "companyName": "A2 Hosting",
+    "packageTitle": "Turbo Nitro",
+    "websiteLimit": "Unlimited Websites",
+    "ssdStorage": "Unlimited NVMe Storage"
+  }
+]
