@@ -3,21 +3,21 @@
     "_id": {
       "$oid": "64bc22876e40c1fa9f63411g"
     },
-    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "20i",
     "packageTitle": "Reseller 50",
     "websiteLimit": "50",
     "ssdStorage": "Unlimited"
   },
   {
-    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "20i",
     "packageTitle": "Reseller 500",
     "websiteLimit": "500",
     "ssdStorage": "Unlimited"
   },
   {
-    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png"
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "20i",
     "packageTitle": "Reseller Unlimited",
     "websiteLimit": "Unlimited",
