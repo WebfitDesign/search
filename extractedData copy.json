@@ -27,24 +27,28 @@
     "_id": {
       "$oid": "64bc22876e40c1fa9f63422i"
     },
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "Fasthosts",
     "packageTitle": "Start",
     "websiteLimit": "1",
     "ssdStorage": "100GB"
   },
   {
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
     "websiteLimit": "3",
     "ssdStorage": "250GB"
   },
   {
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
     "websiteLimit": "10",
     "ssdStorage": "350GB"
   },
   {
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
     "websiteLimit": "100",
@@ -54,24 +58,28 @@
     "_id": {
       "$oid": "64bc22876e40c1fa9f63455f"
     },
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "A2 Hosting",
     "packageTitle": "Ignite",
     "websiteLimit": "1 Website",
     "ssdStorage": "10 GB SSD Storage"
   },
   {
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "A2 Hosting",
     "packageTitle": "Accel",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited SSD Storage"
   },
   {
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Velocity",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited NVMe Storage"
   },
   {
+    "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Nitro",
     "websiteLimit": "Unlimited Websites",
