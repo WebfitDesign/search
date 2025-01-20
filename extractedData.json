@@ -4,18 +4,21 @@
     "packages": [
       {
         "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+         "companyName": "20i",
         "packageTitle": "Reseller 50",
         "websiteLimit": "50",
         "ssdStorage": "Unlimited"
       },
       {
         "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+         "companyName": "20i",
         "packageTitle": "Reseller 500",
         "websiteLimit": "500",
         "ssdStorage": "Unlimited"
       },
       {
         "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+         "companyName": "20i",
         "packageTitle": "Reseller Unlimited",
         "websiteLimit": "Unlimited",
         "ssdStorage": "Unlimited"
@@ -26,25 +29,29 @@
     "url": "https://www.fasthosts.co.uk/web-hosting",
     "packages": [
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+        "image": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+        "companyName": "Fasthosts",
         "packageTitle": "Start",
         "websiteLimit": "1",
         "ssdStorage": "100GB"
       },
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+         "image": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+        "companyName": "Fasthosts",
         "packageTitle": "Grow",
         "websiteLimit": "3",
         "ssdStorage": "250GB"
       },
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+        "image": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+        "companyName": "Fasthosts", 
         "packageTitle": "Scale",
         "websiteLimit": "10",
         "ssdStorage": "350GB"
       },
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+         "image": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+        "companyName": "Fasthosts",
         "packageTitle": "Pro",
         "websiteLimit": "100",
         "ssdStorage": "500GB"
@@ -55,25 +62,29 @@
     "url": "https://www.a2hosting.com/web-hosting/",
     "packages": [
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+        "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/a2-web-hos/a2-web-hosting_z6ng.1920.jpg",
+    "companyName": "A2 Hosting",
         "packageTitle": "Ignite",
         "websiteLimit": "1 Website",
         "ssdStorage": "10 GB SSD Storage"
       },
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/a2-web-hos/a2-web-hosting_z6ng.1920.jpg",
+    "companyName": "A2 Hosting",
         "packageTitle": "Accel",
         "websiteLimit": "Unlimited Websites",
         "ssdStorage": "Unlimited SSD Storage"
       },
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+        "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/a2-web-hos/a2-web-hosting_z6ng.1920.jpg",
+    "companyName": "A2 Hosting",
         "packageTitle": "Turbo Velocity",
         "websiteLimit": "Unlimited Websites",
         "ssdStorage": "Unlimited NVMe Storage"
       },
       {
-        "image": "https://www.agencyhackers.com/wp-content/uploads/2023/11/20i.png",
+      "image": "https://sm.pcmag.com/t/pcmag_uk/review/a/a2-web-hos/a2-web-hosting_z6ng.1920.jpg",
+    "companyName": "A2 Hosting",
         "packageTitle": "Turbo Nitro",
         "websiteLimit": "Unlimited Websites",
         "ssdStorage": "Unlimited NVMe Storage"
