@@ -7,7 +7,8 @@
     "companyName": "20i",
     "packageTitle": "Reseller 50",
     "websiteLimit": "50",
-    "ssdStorage": "Unlimited"
+    "ssdStorage": "Unlimited",
+    "mailBox": "Unlimited"
   },
   {
      "_id": {
@@ -17,7 +18,8 @@
     "companyName": "20i",
     "packageTitle": "Reseller 500",
     "websiteLimit": "500",
-    "ssdStorage": "Unlimited"
+    "ssdStorage": "Unlimited",
+    "mailBox": "Unlimited"
   },
   {
      "_id": {
@@ -27,7 +29,8 @@
     "companyName": "20i",
     "packageTitle": "Reseller Unlimited",
     "websiteLimit": "Unlimited",
-    "ssdStorage": "Unlimited"
+    "ssdStorage": "Unlimited",
+    "mailBox": "Unlimited"
   },
   {
     "_id": {
@@ -37,7 +40,8 @@
     "companyName": "Fasthosts",
     "packageTitle": "Start",
     "websiteLimit": "1",
-    "ssdStorage": "100GB"
+    "ssdStorage": "100GB",
+    "mailBox": "1"
   },
   {
      "_id": {
@@ -47,7 +51,9 @@
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
     "websiteLimit": "3",
-    "ssdStorage": "250GB"
+    "ssdStorage": "250GB",
+    "mailBox": "2"
+    
   },
   {
      "_id": {
@@ -57,7 +63,8 @@
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
     "websiteLimit": "10",
-    "ssdStorage": "350GB"
+    "ssdStorage": "350GB",
+    "mailBox": "4"
   },
   {
      "_id": {
@@ -67,7 +74,8 @@
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
     "websiteLimit": "100",
-    "ssdStorage": "500GB"
+    "ssdStorage": "500GB",
+    "mailBox": "8"
   },
   {
     "_id": {
@@ -77,7 +85,8 @@
     "companyName": "A2 Hosting",
     "packageTitle": "Ignite",
     "websiteLimit": "1 Website",
-    "ssdStorage": "10 GB SSD Storage"
+    "ssdStorage": "10 GB SSD Storage",
+    "mailBox": "N/A"
   },
   {
      "_id": {
@@ -87,7 +96,8 @@
     "companyName": "A2 Hosting",
     "packageTitle": "Accel",
     "websiteLimit": "Unlimited Websites",
-    "ssdStorage": "Unlimited SSD Storage"
+    "ssdStorage": "Unlimited SSD Storage",
+    "mailBox": "N/A"
   },
   {
      "_id": {
@@ -97,7 +107,8 @@
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Velocity",
     "websiteLimit": "Unlimited Websites",
-    "ssdStorage": "Unlimited NVMe Storage"
+    "ssdStorage": "Unlimited NVMe Storage",
+    "mailBox": "N/A"
   },
   {
      "_id": {
@@ -107,6 +118,7 @@
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Nitro",
     "websiteLimit": "Unlimited Websites",
-    "ssdStorage": "Unlimited NVMe Storage"
+    "ssdStorage": "Unlimited NVMe Storage",
+    "mailBox": "N/A"
   }
 ]
