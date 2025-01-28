@@ -1,133 +1,144 @@
 [
   {
     "_id": {
-      "$oid": "39d74715e18aa1a371fad312"
+      "$oid": "9db261127cc8eeeed2dae737"
     },
     "companyName": "20i",
     "packageTitle": "Reseller 50",
     "websiteLimit": "50",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "sslCert": "Unlimited",
     "hostPrice": "Then only £39.99/mo",
     "dealPrice": "First month £1"
   },
   {
     "_id": {
-      "$oid": "3072d65bb9545134a0e2be12"
+      "$oid": "dda6e5dd7aaa2da1b98b9f54"
     },
     "companyName": "20i",
     "packageTitle": "Reseller 500",
     "websiteLimit": "500",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "sslCert": "Unlimited",
     "hostPrice": "Then only £69.99/mo",
     "dealPrice": "First month £1"
   },
   {
     "_id": {
-      "$oid": "3c45348689b4300071a67dca"
+      "$oid": "aa2ca5d8e79e2255cd4d2deb"
     },
     "companyName": "20i",
     "packageTitle": "Reseller Unlimited",
     "websiteLimit": "Unlimited",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "sslCert": "Unlimited",
     "hostPrice": "Then only £99.99/mo",
     "dealPrice": "First month £1"
   },
   {
     "_id": {
-      "$oid": "67801061deb283ff4313e5b3"
+      "$oid": "d508c8aa3a83214c2c72705f"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Start",
     "websiteLimit": "1",
     "ssdStorage": "100GB",
     "mailBox": "1x",
-    "hostPrice": "£5",
+    "sslCert": "N/A",
+    "hostPrice": "2x",
     "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month"
   },
   {
     "_id": {
-      "$oid": "e77237e94c41371954e9f931"
+      "$oid": "42d29fcc199206350fbb0d24"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
     "websiteLimit": "3",
     "ssdStorage": "250GB",
     "mailBox": "2x",
-    "hostPrice": "£7",
+    "sslCert": "N/A",
+    "hostPrice": "3x",
     "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month"
   },
   {
     "_id": {
-      "$oid": "5f7a4bbf5a524f1a032d7503"
+      "$oid": "904b4ea0870263e188a82536"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
     "websiteLimit": "10",
     "ssdStorage": "350GB",
     "mailBox": "4x",
-    "hostPrice": "£12",
+    "sslCert": "N/A",
+    "hostPrice": "5x",
     "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month"
   },
   {
     "_id": {
-      "$oid": "353502acbf4afb958ca8b7fe"
+      "$oid": "ffd3044126fa3ea18c2c2e5e"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
     "websiteLimit": "100",
     "ssdStorage": "500GB",
     "mailBox": "8x",
-    "hostPrice": "£18",
+    "sslCert": "N/A",
+    "hostPrice": "N/A",
     "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month"
   },
   {
     "_id": {
-      "$oid": "f709fc4ab306a827e6758960"
+      "$oid": "3c6d2c8a7172ef3bd1f695c8"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Ignite",
     "websiteLimit": "1 Website",
     "ssdStorage": "10 GB SSD Storage",
     "mailBox": "Unlimited",
+    "sslCert": "Free SSL Certificate",
     "hostPrice": "$2.99/mo*",
     "dealPrice": "SAVE 76%!"
   },
   {
     "_id": {
-      "$oid": "34e9cb70c276910428c51686"
+      "$oid": "067f17037e43fb53e1f7e251"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Accel",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited SSD Storage",
     "mailBox": "Unlimited",
+    "sslCert": "Free SSL Certificate",
     "hostPrice": "$5.99/mo*",
     "dealPrice": "SAVE 62%!"
   },
   {
     "_id": {
-      "$oid": "7db4aa95db3bbda37cff026d"
+      "$oid": "18abec074b8660df609d7108"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Velocity",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited NVMe Storage",
     "mailBox": "Unlimited",
+    "sslCert": "Free SSL Certificate",
     "hostPrice": "$7.99/mo*",
     "dealPrice": "SAVE 68%!"
   },
   {
     "_id": {
-      "$oid": "15e799f96ff092bf65538040"
+      "$oid": "75be16410067444822923207"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Nitro",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited NVMe Storage",
     "mailBox": "Unlimited",
+    "sslCert": "Free SSL Certificate",
     "hostPrice": "$14.99/mo*",
     "dealPrice": "SAVE 50%!"
   }
