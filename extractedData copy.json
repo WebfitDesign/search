@@ -1,10 +1,11 @@
 [
   {
     "_id": {
-      "$oid": "df0ad5f1cae7afdba8f9a59c"
+      "$oid": "30d71643d9588a8ecc136689"
     },
     "companyName": "20i",
     "packageTitle": "Reseller 50",
+    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
     "websiteLimit": "50",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
@@ -14,10 +15,11 @@
   },
   {
     "_id": {
-      "$oid": "175948cf5e3f9f69db61e4d1"
+      "$oid": "e5457c51e1856ea6a401d169"
     },
     "companyName": "20i",
     "packageTitle": "Reseller 500",
+    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
     "websiteLimit": "500",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
@@ -27,10 +29,11 @@
   },
   {
     "_id": {
-      "$oid": "a43e707501203bd54c5f9254"
+      "$oid": "a19b52e788a7ea036d7576c4"
     },
     "companyName": "20i",
     "packageTitle": "Reseller Unlimited",
+    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
     "websiteLimit": "Unlimited",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
@@ -40,10 +43,11 @@
   },
   {
     "_id": {
-      "$oid": "78fb79fa8305c5467f590b7c"
+      "$oid": "30a29d93ec5326d530bf40c8"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Start",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "websiteLimit": "1",
     "ssdStorage": "100GB",
     "mailBox": "1x",
@@ -53,10 +57,11 @@
   },
   {
     "_id": {
-      "$oid": "79d737f4219450ff3a02c9a6"
+      "$oid": "7f4dcc6ca4768dc1e7d50df2"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "websiteLimit": "3",
     "ssdStorage": "250GB",
     "mailBox": "2x",
@@ -66,10 +71,11 @@
   },
   {
     "_id": {
-      "$oid": "c602809ff08b13b03498014d"
+      "$oid": "68e0c8e2e6c30d1ab44b9a01"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "websiteLimit": "10",
     "ssdStorage": "350GB",
     "mailBox": "4x",
@@ -79,10 +85,11 @@
   },
   {
     "_id": {
-      "$oid": "ba612fb25f6c5246b706c1a8"
+      "$oid": "221bc13f0010eea2c8a89842"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "websiteLimit": "100",
     "ssdStorage": "500GB",
     "mailBox": "8x",
@@ -92,10 +99,11 @@
   },
   {
     "_id": {
-      "$oid": "c472c73e0b001a5365f24855"
+      "$oid": "02519c11e0fa6d38d715cfa0"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Ignite",
+    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
     "websiteLimit": "1 Website",
     "ssdStorage": "10 GB SSD Storage",
     "mailBox": "Unlimited",
@@ -105,10 +113,11 @@
   },
   {
     "_id": {
-      "$oid": "a0e938b6f4d08ad08d7dc380"
+      "$oid": "0ae9b0f2d917725d445997f5"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Accel",
+    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited SSD Storage",
     "mailBox": "Unlimited",
@@ -118,10 +127,11 @@
   },
   {
     "_id": {
-      "$oid": "4f0e3475687b14021b869bee"
+      "$oid": "7cb01bd0a06045d1397ce6ab"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Velocity",
+    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited NVMe Storage",
     "mailBox": "Unlimited",
@@ -131,10 +141,11 @@
   },
   {
     "_id": {
-      "$oid": "a19837f4e05c830ff680e182"
+      "$oid": "0817b251949f7307de91b5c8"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Nitro",
+    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited NVMe Storage",
     "mailBox": "Unlimited",
