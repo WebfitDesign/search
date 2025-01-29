@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "39a93e703e4e44f08849bf92"
+      "$oid": "21dec8e7b4bc2d9c54ec4bbb"
     },
     "companyName": "20i",
     "packageTitle": "Reseller 50",
@@ -9,13 +9,14 @@
     "websiteLimit": "50",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Unlimited",
     "hostPrice": "£39.99",
     "dealPrice": "First month £1"
   },
   {
     "_id": {
-      "$oid": "ec779c9dd562714448de5803"
+      "$oid": "7fc8494ea6f4bc68b8dc27f0"
     },
     "companyName": "20i",
     "packageTitle": "Reseller 500",
@@ -23,13 +24,14 @@
     "websiteLimit": "500",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Unlimited",
     "hostPrice": "£69.99",
     "dealPrice": "First month £1"
   },
   {
     "_id": {
-      "$oid": "bbb54373f17307e4c3396acb"
+      "$oid": "84ad0fd2072f1ddd93c9db20"
     },
     "companyName": "20i",
     "packageTitle": "Reseller Unlimited",
@@ -37,13 +39,14 @@
     "websiteLimit": "Unlimited",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Unlimited",
     "hostPrice": "£99.99",
     "dealPrice": "First month £1"
   },
   {
     "_id": {
-      "$oid": "c8e2bb3e6b9572e37b9f2465"
+      "$oid": "8e8832e18cde18aaaf026d9e"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Start",
@@ -51,13 +54,14 @@
     "websiteLimit": "1",
     "ssdStorage": "100",
     "mailBox": "1",
+    "freeDomain": "1",
     "sslCert": "",
     "hostPrice": "£5.00",
     "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month"
   },
   {
     "_id": {
-      "$oid": "e5984068185377d9a85b0339"
+      "$oid": "8f37f167580a2e9078fd95e9"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
@@ -65,13 +69,14 @@
     "websiteLimit": "3",
     "ssdStorage": "250",
     "mailBox": "2",
+    "freeDomain": "2",
     "sslCert": "",
     "hostPrice": "£7.00",
     "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month"
   },
   {
     "_id": {
-      "$oid": "355c30eab5180f09d3003ba0"
+      "$oid": "e48df44e1716cabdb304faef"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
@@ -79,13 +84,14 @@
     "websiteLimit": "10",
     "ssdStorage": "350",
     "mailBox": "4",
+    "freeDomain": "3",
     "sslCert": "",
     "hostPrice": "£12.00",
     "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month"
   },
   {
     "_id": {
-      "$oid": "5a263e83deb2201046ec9060"
+      "$oid": "73ad0a42b326991902e3074a"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
@@ -93,13 +99,14 @@
     "websiteLimit": "100",
     "ssdStorage": "500",
     "mailBox": "8",
+    "freeDomain": "5",
     "sslCert": "",
     "hostPrice": "£18.00",
     "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month"
   },
   {
     "_id": {
-      "$oid": "0cf0fa68682ac337b0cb214d"
+      "$oid": "4f0178e4b18dbecf8c9264c8"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Ignite",
@@ -107,13 +114,14 @@
     "websiteLimit": "1 Website",
     "ssdStorage": "10",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Free SSL Certificate",
     "hostPrice": "$2.99",
     "dealPrice": "SAVE 76%!"
   },
   {
     "_id": {
-      "$oid": "e78b410787ca82611017a246"
+      "$oid": "fabeff86cab047c2911a6b81"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Accel",
@@ -121,13 +129,14 @@
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Free SSL Certificate",
     "hostPrice": "$5.99",
     "dealPrice": "SAVE 62%!"
   },
   {
     "_id": {
-      "$oid": "60864d034dd4be88f726fd2f"
+      "$oid": "92ecc2066e1c5bbd9c735ad7"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Velocity",
@@ -135,13 +144,14 @@
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Free SSL Certificate",
     "hostPrice": "$7.99",
     "dealPrice": "SAVE 68%!"
   },
   {
     "_id": {
-      "$oid": "50c14df628654158519bc9b2"
+      "$oid": "734c0470560898f854cfdf6c"
     },
     "companyName": "A2 Hosting",
     "packageTitle": "Turbo Nitro",
@@ -149,6 +159,7 @@
     "websiteLimit": "Unlimited Websites",
     "ssdStorage": "Unlimited",
     "mailBox": "Unlimited",
+    "freeDomain": "",
     "sslCert": "Free SSL Certificate",
     "hostPrice": "$14.99",
     "dealPrice": "SAVE 50%!"
