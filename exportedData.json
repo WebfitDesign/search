@@ -1,70 +1,122 @@
 [
   {
-    "url": "https://www.ionos.co.uk/hosting/web-hosting",
+    "_id": {
+      "$oid": "d84a3d95-4049-4364-8a9b-4a32455b789d"
+    },
     "companyName": "Ionos",
+    "packageTitle": "Standard",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitles": [
-      "Standard",
-      "Plus",
-      "Premium",
-      "Ultimate"
-    ],
-    "prices": [
-      "£6/month",
-      "£9/month",
-      "£16/month",
-      "£24/month"
-    ],
-    "dealprices": [
-      "3",
-      "1",
-      "8",
-      "12"
-    ],
-    "websiteLimit": [],
-    "mailboxLimit": [
-      "1 Mailbox",
-      "1 Mailbox",
-      "1 Mailbox",
-      "1 Mailbox"
-    ],
-    "storageGb": [
-      "100 GB storage",
-      "250 GB redundant storage",
-      "350 GB redundant storage",
-      "500 GB redundant storage"
-    ],
-    "additions": [],
-    "freeDomain": [
-      "Free domain & SSL certificate",
-      "Free domain & SSL certificate",
-      "Free domain & SSL certificate",
-      "Free domain & SSL certificate"
-    ],
-    "freeSsl": []
+    "websiteLimit": "1 Mailbox",
+    "ssdStorage": "100 GB storage",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "hostPrice": "£6/month",
+    "dealPrice": "3"
   },
   {
-    "url": "https://www.fasthosts.co.uk/web-hosting",
+    "_id": {
+      "$oid": "ddcc0a27-ef54-4b2c-87a2-8785c3e28929"
+    },
+    "companyName": "Ionos",
+    "packageTitle": "Plus",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "websiteLimit": "1 Mailbox",
+    "ssdStorage": "250 GB redundant storage",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "hostPrice": "£9/month",
+    "dealPrice": "1"
+  },
+  {
+    "_id": {
+      "$oid": "3a76b889-05dd-40ca-b527-2859fe6857b6"
+    },
+    "companyName": "Ionos",
+    "packageTitle": "Premium",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "websiteLimit": "1 Mailbox",
+    "ssdStorage": "350 GB redundant storage",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "hostPrice": "£16/month",
+    "dealPrice": "8"
+  },
+  {
+    "_id": {
+      "$oid": "eb8d6bdc-e361-416e-a050-0b919fb66d96"
+    },
+    "companyName": "Ionos",
+    "packageTitle": "Ultimate",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "websiteLimit": "1 Mailbox",
+    "ssdStorage": "500 GB redundant storage",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "hostPrice": "£24/month",
+    "dealPrice": "12"
+  },
+  {
+    "_id": {
+      "$oid": "37efaf34-90e7-4f49-8704-0219a4a61dda"
+    },
     "companyName": "Fasthosts",
+    "packageTitle": "Start",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
-    "packageTitles": [
-      "Start",
-      "Grow",
-      "Scale",
-      "Pro"
-    ],
-    "prices": [
-      "£5",
-      "£7",
-      "£12",
-      "£18"
-    ],
-    "dealprices": [],
-    "websiteLimit": [],
-    "mailboxLimit": [],
-    "storageGb": [],
-    "additions": [],
-    "freeDomain": [],
-    "freeSsl": []
+    "websiteLimit": "",
+    "ssdStorage": "",
+    "mailBox": "",
+    "freeDomain": "",
+    "sslCert": "",
+    "hostPrice": "£5",
+    "dealPrice": ""
+  },
+  {
+    "_id": {
+      "$oid": "a64f8680-7b79-4b5c-8616-655142bc7b8c"
+    },
+    "companyName": "Fasthosts",
+    "packageTitle": "Grow",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "websiteLimit": "",
+    "ssdStorage": "",
+    "mailBox": "",
+    "freeDomain": "",
+    "sslCert": "",
+    "hostPrice": "£7",
+    "dealPrice": ""
+  },
+  {
+    "_id": {
+      "$oid": "8030641c-df57-4463-8d93-f1b60b6fc468"
+    },
+    "companyName": "Fasthosts",
+    "packageTitle": "Scale",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "websiteLimit": "",
+    "ssdStorage": "",
+    "mailBox": "",
+    "freeDomain": "",
+    "sslCert": "",
+    "hostPrice": "£12",
+    "dealPrice": ""
+  },
+  {
+    "_id": {
+      "$oid": "ac2df6c5-c323-4f93-86f6-ac7be6dfbc14"
+    },
+    "companyName": "Fasthosts",
+    "packageTitle": "Pro",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "websiteLimit": "",
+    "ssdStorage": "",
+    "mailBox": "",
+    "freeDomain": "",
+    "sslCert": "",
+    "hostPrice": "£18",
+    "dealPrice": ""
   }
 ]
