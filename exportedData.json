@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "d84a3d95-4049-4364-8a9b-4a32455b789d"
+      "$oid": "36bbc14d-8702-4366-9041-d3e3befb708f"
     },
     "companyName": "Ionos",
     "packageTitle": "Standard",
@@ -12,11 +12,15 @@
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£6/month",
-    "dealPrice": "3"
+    "dealPrice": "3",
+    "additions": [
+      "Real-time scaling with just one click, exclusive to IONOS",
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "ddcc0a27-ef54-4b2c-87a2-8785c3e28929"
+      "$oid": "b804657f-5fa7-4599-ae82-965f48a4f4b1"
     },
     "companyName": "Ionos",
     "packageTitle": "Plus",
@@ -27,11 +31,15 @@
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£9/month",
-    "dealPrice": "1"
+    "dealPrice": "1",
+    "additions": [
+      "Real-time scaling with just one click, exclusive to IONOS",
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "3a76b889-05dd-40ca-b527-2859fe6857b6"
+      "$oid": "f5758c60-efdd-4340-85ed-de4aa26bf8d4"
     },
     "companyName": "Ionos",
     "packageTitle": "Premium",
@@ -42,11 +50,15 @@
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£16/month",
-    "dealPrice": "8"
+    "dealPrice": "8",
+    "additions": [
+      "Real-time scaling with just one click, exclusive to IONOS",
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "eb8d6bdc-e361-416e-a050-0b919fb66d96"
+      "$oid": "af0b1854-370b-4bd6-895f-b565637b818e"
     },
     "companyName": "Ionos",
     "packageTitle": "Ultimate",
@@ -57,66 +69,74 @@
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£24/month",
-    "dealPrice": "12"
+    "dealPrice": "12",
+    "additions": [
+      "Real-time scaling with just one click, exclusive to IONOS",
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "37efaf34-90e7-4f49-8704-0219a4a61dda"
+      "$oid": "e0b60fb9-fb42-4b41-b9e0-04ad3f429f97"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Start",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
-    "websiteLimit": "",
-    "ssdStorage": "",
-    "mailBox": "",
+    "websiteLimit": "1",
+    "ssdStorage": "100GB",
+    "mailBox": "1x",
     "freeDomain": "",
     "sslCert": "",
     "hostPrice": "£5",
-    "dealPrice": ""
+    "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month",
+    "additions": []
   },
   {
     "_id": {
-      "$oid": "a64f8680-7b79-4b5c-8616-655142bc7b8c"
+      "$oid": "6ca841f1-4b3d-40e9-8322-432a9c45f8c3"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
-    "websiteLimit": "",
-    "ssdStorage": "",
-    "mailBox": "",
+    "websiteLimit": "3",
+    "ssdStorage": "250GB",
+    "mailBox": "2x",
     "freeDomain": "",
     "sslCert": "",
     "hostPrice": "£7",
-    "dealPrice": ""
+    "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month",
+    "additions": []
   },
   {
     "_id": {
-      "$oid": "8030641c-df57-4463-8d93-f1b60b6fc468"
+      "$oid": "d0dd7c2a-9dcf-4070-a5bc-e78552729e60"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
-    "websiteLimit": "",
-    "ssdStorage": "",
-    "mailBox": "",
+    "websiteLimit": "10",
+    "ssdStorage": "350GB",
+    "mailBox": "4x",
     "freeDomain": "",
     "sslCert": "",
     "hostPrice": "£12",
-    "dealPrice": ""
+    "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month",
+    "additions": []
   },
   {
     "_id": {
-      "$oid": "ac2df6c5-c323-4f93-86f6-ac7be6dfbc14"
+      "$oid": "d2762c30-3c02-48e3-8d9b-904ecf20a648"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
-    "websiteLimit": "",
-    "ssdStorage": "",
-    "mailBox": "",
+    "websiteLimit": "100",
+    "ssdStorage": "500GB",
+    "mailBox": "8x",
     "freeDomain": "",
     "sslCert": "",
     "hostPrice": "£18",
-    "dealPrice": ""
+    "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month",
+    "additions": []
   }
 ]
