@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "36bbc14d-8702-4366-9041-d3e3befb708f"
+      "$oid": "8c6dfeb7-21e6-48c2-9db3-25ecd6d384be"
     },
     "companyName": "Ionos",
     "packageTitle": "Standard",
@@ -13,14 +13,11 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£6/month",
     "dealPrice": "3",
-    "additions": [
-      "Real-time scaling with just one click, exclusive to IONOS",
-      "Premium 24/7 support with a personal consultant"
-    ]
+    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
   },
   {
     "_id": {
-      "$oid": "b804657f-5fa7-4599-ae82-965f48a4f4b1"
+      "$oid": "bf54d451-5cd2-457f-9c9b-1722110ea6ea"
     },
     "companyName": "Ionos",
     "packageTitle": "Plus",
@@ -32,14 +29,11 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£9/month",
     "dealPrice": "1",
-    "additions": [
-      "Real-time scaling with just one click, exclusive to IONOS",
-      "Premium 24/7 support with a personal consultant"
-    ]
+    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
   },
   {
     "_id": {
-      "$oid": "f5758c60-efdd-4340-85ed-de4aa26bf8d4"
+      "$oid": "bced65a8-3cac-48a2-89da-800cf9227456"
     },
     "companyName": "Ionos",
     "packageTitle": "Premium",
@@ -51,14 +45,11 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£16/month",
     "dealPrice": "8",
-    "additions": [
-      "Real-time scaling with just one click, exclusive to IONOS",
-      "Premium 24/7 support with a personal consultant"
-    ]
+    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
   },
   {
     "_id": {
-      "$oid": "af0b1854-370b-4bd6-895f-b565637b818e"
+      "$oid": "bc8613e4-017e-4132-8b8c-94f0dd4e927e"
     },
     "companyName": "Ionos",
     "packageTitle": "Ultimate",
@@ -70,14 +61,11 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£24/month",
     "dealPrice": "12",
-    "additions": [
-      "Real-time scaling with just one click, exclusive to IONOS",
-      "Premium 24/7 support with a personal consultant"
-    ]
+    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
   },
   {
     "_id": {
-      "$oid": "e0b60fb9-fb42-4b41-b9e0-04ad3f429f97"
+      "$oid": "ee179c29-2b9a-400d-9b6a-3db8c8912586"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Start",
@@ -89,11 +77,11 @@
     "sslCert": "",
     "hostPrice": "£5",
     "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month",
-    "additions": []
+    "additions": ""
   },
   {
     "_id": {
-      "$oid": "6ca841f1-4b3d-40e9-8322-432a9c45f8c3"
+      "$oid": "42012c4e-0596-4382-8f34-1eece0a89e8d"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
@@ -105,11 +93,11 @@
     "sslCert": "",
     "hostPrice": "£7",
     "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month",
-    "additions": []
+    "additions": ""
   },
   {
     "_id": {
-      "$oid": "d0dd7c2a-9dcf-4070-a5bc-e78552729e60"
+      "$oid": "0b641595-2388-452a-bbc7-f5bcc9110710"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
@@ -121,11 +109,11 @@
     "sslCert": "",
     "hostPrice": "£12",
     "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month",
-    "additions": []
+    "additions": ""
   },
   {
     "_id": {
-      "$oid": "d2762c30-3c02-48e3-8d9b-904ecf20a648"
+      "$oid": "8144c928-794a-4fc5-8d0d-2faadaf83c59"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
@@ -137,6 +125,6 @@
     "sslCert": "",
     "hostPrice": "£18",
     "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month",
-    "additions": []
+    "additions": ""
   }
 ]
