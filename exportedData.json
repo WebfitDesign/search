@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "8c6dfeb7-21e6-48c2-9db3-25ecd6d384be"
+      "$oid": "3d880ff6-a0c1-4f05-b884-8b6a110ac844"
     },
     "companyName": "Ionos",
     "packageTitle": "Standard",
@@ -13,11 +13,16 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£6/month",
     "dealPrice": "3",
-    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
+    "additions1": [
+      "Real-time scaling with just one click, exclusive to IONOS"
+    ],
+    "additions2": [
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "bf54d451-5cd2-457f-9c9b-1722110ea6ea"
+      "$oid": "4f6c9e46-1da6-4e5a-ab36-0edd9fd9c75b"
     },
     "companyName": "Ionos",
     "packageTitle": "Plus",
@@ -29,11 +34,16 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£9/month",
     "dealPrice": "1",
-    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
+    "additions1": [
+      "Real-time scaling with just one click, exclusive to IONOS"
+    ],
+    "additions2": [
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "bced65a8-3cac-48a2-89da-800cf9227456"
+      "$oid": "39405631-93e7-4bfa-a4c1-51cbe479963e"
     },
     "companyName": "Ionos",
     "packageTitle": "Premium",
@@ -45,11 +55,16 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£16/month",
     "dealPrice": "8",
-    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
+    "additions1": [
+      "Real-time scaling with just one click, exclusive to IONOS"
+    ],
+    "additions2": [
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "bc8613e4-017e-4132-8b8c-94f0dd4e927e"
+      "$oid": "4ddd4db4-d3ec-4ce2-9c0b-681a75c853e2"
     },
     "companyName": "Ionos",
     "packageTitle": "Ultimate",
@@ -61,11 +76,16 @@
     "sslCert": "Free domain & SSL certificate",
     "hostPrice": "£24/month",
     "dealPrice": "12",
-    "additions": "<ul class='additions'><li>Real-time scaling with just one click, exclusive to IONOS</li><li>Premium 24/7 support with a personal consultant</li></ul>"
+    "additions1": [
+      "Real-time scaling with just one click, exclusive to IONOS"
+    ],
+    "additions2": [
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "ee179c29-2b9a-400d-9b6a-3db8c8912586"
+      "$oid": "f2dfa7c6-f59f-42bb-8191-bd3cf46b8840"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Start",
@@ -77,11 +97,12 @@
     "sslCert": "",
     "hostPrice": "£5",
     "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month",
-    "additions": ""
+    "additions1": [],
+    "additions2": []
   },
   {
     "_id": {
-      "$oid": "42012c4e-0596-4382-8f34-1eece0a89e8d"
+      "$oid": "ab5eb032-798f-4385-b3db-3d40dcd73188"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Grow",
@@ -93,11 +114,12 @@
     "sslCert": "",
     "hostPrice": "£7",
     "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month",
-    "additions": ""
+    "additions1": [],
+    "additions2": []
   },
   {
     "_id": {
-      "$oid": "0b641595-2388-452a-bbc7-f5bcc9110710"
+      "$oid": "5a4ded73-95a9-4546-a27f-1b0f3ff57614"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Scale",
@@ -109,11 +131,12 @@
     "sslCert": "",
     "hostPrice": "£12",
     "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month",
-    "additions": ""
+    "additions1": [],
+    "additions2": []
   },
   {
     "_id": {
-      "$oid": "8144c928-794a-4fc5-8d0d-2faadaf83c59"
+      "$oid": "f987be44-45b6-4958-aeba-5c362ef8a4e7"
     },
     "companyName": "Fasthosts",
     "packageTitle": "Pro",
@@ -125,6 +148,7 @@
     "sslCert": "",
     "hostPrice": "£18",
     "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month",
-    "additions": ""
+    "additions1": [],
+    "additions2": []
   }
 ]
