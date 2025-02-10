@@ -1,167 +1,422 @@
 [
   {
     "_id": {
-      "$oid": "21dec8e7b4bc2d9c54ec4bbb"
+      "$oid": "cca0cc0a-c457-476b-9686-becb685440f3"
     },
-    "companyName": "20i",
-    "packageTitle": "Reseller 50",
-    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
-    "websiteLimit": "50",
-    "ssdStorage": "Unlimited",
-    "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Unlimited",
-    "hostPrice": "£39.99",
-    "dealPrice": "First month £1"
+    "companyName": "Ionos",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "packageTitle": "Standard",
+    "ssdStorage": "100 GB storage",
+    "hostPrice": "£6/month",
+    "websiteLimit": "1 Mailbox",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "dealPrice": "3",
+    "additions1": [
+      "Real-time scaling with just one click, exclusive to IONOS"
+    ],
+    "additions2": [
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "7fc8494ea6f4bc68b8dc27f0"
+      "$oid": "6ba7452f-8be5-4760-a480-0c56bb5a0b0d"
     },
-    "companyName": "20i",
-    "packageTitle": "Reseller 500",
-    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
-    "websiteLimit": "500",
-    "ssdStorage": "Unlimited",
-    "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Unlimited",
-    "hostPrice": "£69.99",
-    "dealPrice": "First month £1"
+    "companyName": "Ionos",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "packageTitle": "Plus",
+    "ssdStorage": "250 GB redundant storage",
+    "hostPrice": "£9/month",
+    "websiteLimit": "1 Mailbox",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "dealPrice": "1",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "84ad0fd2072f1ddd93c9db20"
+      "$oid": "029256a4-208f-49d1-a57e-b2829a6acf76"
     },
-    "companyName": "20i",
-    "packageTitle": "Reseller Unlimited",
-    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
-    "websiteLimit": "Unlimited",
-    "ssdStorage": "Unlimited",
-    "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Unlimited",
-    "hostPrice": "£99.99",
-    "dealPrice": "First month £1"
+    "companyName": "Ionos",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "packageTitle": "Premium",
+    "ssdStorage": "350 GB redundant storage",
+    "hostPrice": "£16/month",
+    "websiteLimit": "1 Mailbox",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "dealPrice": "8",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "8e8832e18cde18aaaf026d9e"
+      "$oid": "4894a63c-36f6-4bff-9fd2-56f435d2c3a1"
+    },
+    "companyName": "Ionos",
+    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
+    "packageTitle": "Ultimate",
+    "ssdStorage": "500 GB redundant storage",
+    "hostPrice": "£24/month",
+    "websiteLimit": "1 Mailbox",
+    "mailBox": "1 Mailbox",
+    "freeDomain": "Free domain & SSL certificate",
+    "sslCert": "Free domain & SSL certificate",
+    "dealPrice": "12",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "58950908-f091-429d-8cf5-bd2ff36770cd"
     },
     "companyName": "Fasthosts",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "packageTitle": "Start",
-    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "ssdStorage": "100GB",
+    "hostPrice": "£5",
     "websiteLimit": "1",
-    "ssdStorage": "100",
-    "mailBox": "1",
-    "freeDomain": "1",
-    "sslCert": "",
-    "hostPrice": "£5.00",
-    "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month"
+    "mailBox": "1x",
+    "freeDomain": "1x",
+    "sslCert": "N/A",
+    "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month",
+    "additions1": [
+      "30-day money-back guarantee"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "8f37f167580a2e9078fd95e9"
+      "$oid": "48292791-9b57-4757-a8c7-0d9058e09721"
     },
     "companyName": "Fasthosts",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "packageTitle": "Grow",
-    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "ssdStorage": "250GB",
+    "hostPrice": "£7",
     "websiteLimit": "3",
-    "ssdStorage": "250",
-    "mailBox": "2",
-    "freeDomain": "2",
-    "sslCert": "",
-    "hostPrice": "£7.00",
-    "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month"
+    "mailBox": "2x",
+    "freeDomain": "2x",
+    "sslCert": "N/A",
+    "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "e48df44e1716cabdb304faef"
+      "$oid": "47b3266e-c715-4953-a07b-7dc8e0f106af"
     },
     "companyName": "Fasthosts",
+    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
     "packageTitle": "Scale",
-    "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "ssdStorage": "350GB",
+    "hostPrice": "£12",
     "websiteLimit": "10",
-    "ssdStorage": "350",
-    "mailBox": "4",
-    "freeDomain": "3",
-    "sslCert": "",
-    "hostPrice": "£12.00",
-    "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month"
+    "mailBox": "4x",
+    "freeDomain": "3x",
+    "sslCert": "N/A",
+    "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "73ad0a42b326991902e3074a"
+      "$oid": "6c46dc06-9a84-461c-a2ca-49a118137f79"
     },
     "companyName": "Fasthosts",
-    "packageTitle": "Pro",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
+    "packageTitle": "Pro",
+    "ssdStorage": "500GB",
+    "hostPrice": "£18",
     "websiteLimit": "100",
-    "ssdStorage": "500",
-    "mailBox": "8",
-    "freeDomain": "5",
-    "sslCert": "",
-    "hostPrice": "£18.00",
-    "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month"
+    "mailBox": "8x",
+    "freeDomain": "5x",
+    "sslCert": "N/A",
+    "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "4f0178e4b18dbecf8c9264c8"
+      "$oid": "956a80f9-58b2-4539-97a3-d6b13e8bbe60"
     },
-    "companyName": "A2 Hosting",
-    "packageTitle": "Ignite",
-    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
-    "websiteLimit": "1 Website",
-    "ssdStorage": "10",
-    "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Free SSL Certificate",
-    "hostPrice": "$2.99",
-    "dealPrice": "SAVE 76%!"
-  },
-  {
-    "_id": {
-      "$oid": "fabeff86cab047c2911a6b81"
-    },
-    "companyName": "A2 Hosting",
-    "packageTitle": "Accel",
-    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
-    "websiteLimit": "Unlimited Websites",
+    "companyName": "20i",
+    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
+    "packageTitle": "N/A",
     "ssdStorage": "Unlimited",
+    "hostPrice": "Then only £39.99/mo",
+    "websiteLimit": "50",
     "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Free SSL Certificate",
-    "hostPrice": "$5.99",
-    "dealPrice": "SAVE 62%!"
+    "freeDomain": "N/A",
+    "sslCert": "Unlimited",
+    "dealPrice": "First month £1",
+    "additions1": [
+      "Unlimited SSD webspace, bandwidth, databases, SSL & email"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "92ecc2066e1c5bbd9c735ad7"
+      "$oid": "f0290689-c7da-4bd5-a192-07b1b21308ed"
     },
-    "companyName": "A2 Hosting",
-    "packageTitle": "Turbo Velocity",
-    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
-    "websiteLimit": "Unlimited Websites",
+    "companyName": "20i",
+    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
+    "packageTitle": "N/A",
     "ssdStorage": "Unlimited",
+    "hostPrice": "Then only £69.99/mo",
+    "websiteLimit": "500",
     "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Free SSL Certificate",
-    "hostPrice": "$7.99",
-    "dealPrice": "SAVE 68%!"
+    "freeDomain": "N/A",
+    "sslCert": "Unlimited",
+    "dealPrice": "First month £1",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   },
   {
     "_id": {
-      "$oid": "734c0470560898f854cfdf6c"
+      "$oid": "0449a271-7bc1-4a3a-a8f3-8d17fd2ced8e"
     },
-    "companyName": "A2 Hosting",
-    "packageTitle": "Turbo Nitro",
-    "logo": "https://www.a2hosting.com/wp-content/themes/a2hosting/assets/header/a2hosting-logo.webp",
-    "websiteLimit": "Unlimited Websites",
+    "companyName": "20i",
+    "logo": "https://www.20i.com/assets/images/20i-logo.svg",
+    "packageTitle": "N/A",
     "ssdStorage": "Unlimited",
+    "hostPrice": "Then only £99.99/mo",
+    "websiteLimit": "Unlimited",
     "mailBox": "Unlimited",
-    "freeDomain": "",
-    "sslCert": "Free SSL Certificate",
-    "hostPrice": "$14.99",
-    "dealPrice": "SAVE 50%!"
+    "freeDomain": "N/A",
+    "sslCert": "Unlimited",
+    "dealPrice": "First month £1",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ecfe7787-0bda-4797-9605-d0fdae4f9179"
+    },
+    "companyName": "Guru",
+    "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
+    "packageTitle": "Reseller Account 10",
+    "ssdStorage": "100GB Fast NVMe SSD Storage",
+    "hostPrice": "£25.49",
+    "websiteLimit": "10 cPanel Accounts",
+    "mailBox": "Unlimited Email Accounts",
+    "freeDomain": "N/A",
+    "sslCert": "Free SSL Certificates",
+    "dealPrice": "N/A",
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5c5a7411-8941-4770-9e22-db7a14f934b9"
+    },
+    "companyName": "Guru",
+    "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
+    "packageTitle": "Reseller Account 100",
+    "ssdStorage": "100GB Fast NVMe SSD Storage",
+    "hostPrice": "£36.99",
+    "websiteLimit": "100 cPanel Accounts",
+    "mailBox": "Unlimited Email Accounts",
+    "freeDomain": "N/A",
+    "sslCert": "Free SSL Certificates",
+    "dealPrice": "N/A",
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5e8145f8-843d-4001-a5eb-33d6109d7f33"
+    },
+    "companyName": "Guru",
+    "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
+    "packageTitle": "Reseller Account 250",
+    "ssdStorage": "250GB Fast NVMe SSD Storage",
+    "hostPrice": "£104.99",
+    "websiteLimit": "250 cPanel Accounts",
+    "mailBox": "Unlimited Email Accounts",
+    "freeDomain": "N/A",
+    "sslCert": "Free SSL Certificates",
+    "dealPrice": "N/A",
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ab7122b4-c21e-46a1-b0cd-d46daf131b59"
+    },
+    "companyName": "Guru",
+    "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
+    "packageTitle": "Reseller Account PRO 100 PRO",
+    "ssdStorage": "Control your own CPU & RAM per-site",
+    "hostPrice": "£74.99",
+    "websiteLimit": "100 cPanel Accounts",
+    "mailBox": "Unlimited Email Accounts",
+    "freeDomain": "N/A",
+    "sslCert": "Free SSL Certificates",
+    "dealPrice": "N/A",
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8cf6c5fc-dba7-4624-a537-b9b4e5b77c40"
+    },
+    "companyName": "Guru",
+    "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
+    "packageTitle": "Reseller Account PRO 250 PRO",
+    "ssdStorage": "N/A",
+    "hostPrice": "£146.99",
+    "websiteLimit": "250 cPanel Accounts",
+    "mailBox": "Unlimited Email Accounts",
+    "freeDomain": "N/A",
+    "sslCert": "Free SSL Certificates",
+    "dealPrice": "N/A",
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "1a25143b-4918-482b-aa5e-122592725bd0"
+    },
+    "companyName": "OVH Cloud",
+    "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
+    "packageTitle": "Starter web hosting",
+    "ssdStorage": "1 GB",
+    "hostPrice": "£0.85",
+    "websiteLimit": "1",
+    "mailBox": "2 x 5GB",
+    "freeDomain": "Free for the first year*",
+    "sslCert": "Let’s Encrypt SSL - Free",
+    "dealPrice": "N/A",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "54bcd9a7-b296-4156-b7a1-35ef6433f8f1"
+    },
+    "companyName": "OVH Cloud",
+    "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
+    "packageTitle": "Personal web hosting",
+    "ssdStorage": "100 GB",
+    "hostPrice": "£1.89",
+    "websiteLimit": "5",
+    "mailBox": "10 x 5GB",
+    "freeDomain": "Free for the first year*",
+    "sslCert": "Let’s Encrypt SSL - Free",
+    "dealPrice": "N/A",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "afff9f1c-33af-434f-9070-394fcb99725a"
+    },
+    "companyName": "OVH Cloud",
+    "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
+    "packageTitle": "Professional web hosting",
+    "ssdStorage": "250 GB",
+    "hostPrice": "£5.19",
+    "websiteLimit": "10",
+    "mailBox": "100 x 5GB",
+    "freeDomain": "Free for the first year*",
+    "sslCert": "Let’s Encrypt SSL - Free",
+    "dealPrice": "N/A",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "31c270f1-429a-484b-a98e-75c9c272422c"
+    },
+    "companyName": "OVH Cloud",
+    "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
+    "packageTitle": "Performance web hosting",
+    "ssdStorage": "500 GB",
+    "hostPrice": "£9.59",
+    "websiteLimit": "1,000",
+    "mailBox": "1,000 x 5GB",
+    "freeDomain": "Free for the first year*",
+    "sslCert": "Let’s Encrypt SSL - Free",
+    "dealPrice": "N/A",
+    "additions1": [
+      "N/A"
+    ],
+    "additions2": [
+      "N/A"
+    ]
   }
 ]
