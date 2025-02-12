@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "ae8cca9e-d611-47ce-a3fd-0710c33579bc"
+      "$oid": "bece8096-a85c-48cd-90e3-72159f959f33"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -12,14 +12,18 @@
     "mailBox": "1 Mailbox",
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
-    "dealPrice": "Save 25%\n£6/month\n£\n3\n/month\nfor 6 months\nexcl. VAT",
+    "dealPrice": "",
     "greenHosting": true,
-    "additions1": ["Real-time scaling with just one click, exclusive to IONOS"],
-    "additions2": ["Premium 24/7 support with a personal consultant"]
+    "additions1": [
+      "Real-time scaling with just one click, exclusive to IONOS"
+    ],
+    "additions2": [
+      "Premium 24/7 support with a personal consultant"
+    ]
   },
   {
     "_id": {
-      "$oid": "0eb7e652-b684-4e77-981c-6ded9fa00892"
+      "$oid": "749d0b15-6871-428b-b2f3-077d930a103f"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -30,14 +34,18 @@
     "mailBox": "1 Mailbox",
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
-    "dealPrice": "£\n3\n/month",
+    "dealPrice": "",
     "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "26d29493-bcf8-47f3-89d5-33ed8d62cc38"
+      "$oid": "7eceb11a-d482-4e4c-8a5b-8d2b50f67544"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -48,14 +56,18 @@
     "mailBox": "1 Mailbox",
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
-    "dealPrice": "£3.60             /month",
+    "dealPrice": "",
     "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "1a8041e0-b17d-4772-95e7-1a27db43bce5"
+      "$oid": "c6c4736f-c757-41ae-a2b4-ad07f4c1b1f9"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -66,158 +78,18 @@
     "mailBox": "1 Mailbox",
     "freeDomain": "Free domain & SSL certificate",
     "sslCert": "Free domain & SSL certificate",
-    "dealPrice": "Save 88%\n£9/month\n£\n1\n/month\nfor 12 months\nexcl. VAT",
+    "dealPrice": "",
     "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "2482353f-a85d-4e3e-9bf0-22aa30eda71e"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "£\n1\n/month",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "8eaa6a20-b011-4eb7-aebf-1a525539981c"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "£1.20             /month",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "16f03f57-c689-4dda-bb1d-19688784dc80"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "Save 25%\n£16/month\n£\n8\n/month\nfor 6 months\nexcl. VAT",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "f6c3b64a-c0e4-47a2-9219-9946296ecaa9"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "£\n8\n/month",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "66498739-9712-4fc0-b77d-94c966a1849a"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "£9.60             /month",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "d8b40d1b-b318-4fe6-bb35-4864e6a66732"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "Save 25%\n£24/month\n£\n12\n/month\nfor 6 months\nexcl. VAT",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "72a1d795-01d7-48f3-ad16-fe663a554e2f"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "£\n12\n/month",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "36456d94-8a51-4b82-8b93-f4a7a2e9f5c8"
-    },
-    "companyName": "Ionos",
-    "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
-    "packageTitle": "",
-    "ssdStorage": "",
-    "hostPrice": "/month",
-    "websiteLimit": "",
-    "mailBox": "",
-    "freeDomain": "",
-    "sslCert": "",
-    "dealPrice": "£14.40             /month",
-    "greenHosting": true,
-    "additions1": [""],
-    "additions2": [""]
-  },
-  {
-    "_id": {
-      "$oid": "14832cf0-f9b2-4b49-80e3-74dad7c457ae"
+      "$oid": "cef804e5-3559-4eaa-8118-73ab0376922c"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -230,12 +102,16 @@
     "sslCert": "",
     "dealPrice": "First 3 months\n£1\nper month\n\nthen £5 per month",
     "greenHosting": false,
-    "additions1": ["30-day money-back guarantee"],
-    "additions2": [""]
+    "additions1": [
+      "30-day money-back guarantee"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "33cdb070-c2b7-4e31-bf4c-ef45e4ce1e8e"
+      "$oid": "39f8e8d6-5c9d-43e2-82e4-f00731711920"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -248,12 +124,16 @@
     "sslCert": "",
     "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "5dba3719-6059-445c-850d-1354c539a4c5"
+      "$oid": "709cb0b6-9fbc-4e8f-b076-ad3e5b1f3179"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -266,12 +146,16 @@
     "sslCert": "",
     "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "d18f5835-0d24-4b12-8d6b-d2888330a7cb"
+      "$oid": "633990f3-afba-436b-86da-edb3e258294e"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -284,12 +168,16 @@
     "sslCert": "",
     "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "64f0b084-5d2e-41ed-99ea-81cb1ad5720a"
+      "$oid": "76cbedef-cf6c-42d1-b360-93200b3becf0"
     },
     "companyName": "20i",
     "logo": "https://www.20i.com/assets/images/20i-logo.svg",
@@ -302,12 +190,16 @@
     "sslCert": "Unlimited",
     "dealPrice": "First month £1",
     "greenHosting": false,
-    "additions1": ["Unlimited SSD webspace, bandwidth, databases, SSL & email"],
-    "additions2": [""]
+    "additions1": [
+      "Unlimited SSD webspace, bandwidth, databases, SSL & email"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "7a356e41-c159-4558-adf6-3fccc6439cf7"
+      "$oid": "6c9c9146-b7e5-4e5a-b95b-e15707137bcb"
     },
     "companyName": "20i",
     "logo": "https://www.20i.com/assets/images/20i-logo.svg",
@@ -320,12 +212,16 @@
     "sslCert": "Unlimited",
     "dealPrice": "First month £1",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "5ed9c1a9-3553-449a-9f4f-9286cf6df286"
+      "$oid": "e86aa7c8-f0dd-4e52-926b-079d3a98f70f"
     },
     "companyName": "20i",
     "logo": "https://www.20i.com/assets/images/20i-logo.svg",
@@ -338,12 +234,16 @@
     "sslCert": "Unlimited",
     "dealPrice": "First month £1",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "1e41a40b-4b1f-4985-9cac-f2c827171363"
+      "$oid": "a53d3396-9460-4374-b656-7d70d30b8d56"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -356,12 +256,16 @@
     "sslCert": "Free SSL Certificates",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": ["White Label Services"],
-    "additions2": [""]
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "861e4987-b50f-41b0-815c-ab0f3000260d"
+      "$oid": "eb78d5d1-1b66-477a-bcfa-12df91ace93c"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -374,12 +278,16 @@
     "sslCert": "Free SSL Certificates",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": ["White Label Services"],
-    "additions2": [""]
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "85200be8-d21b-44ba-9a10-600a558dcc7e"
+      "$oid": "d017a7f1-f695-402b-8aab-25b8e407b008"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -392,17 +300,21 @@
     "sslCert": "Free SSL Certificates",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": ["White Label Services"],
-    "additions2": [""]
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "7ea9e3a9-61d2-4bf4-a8d1-3e9341f65fad"
+      "$oid": "2a4ca219-beb1-4065-b83b-d079f96904fc"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
     "packageTitle": "Reseller Account PRO 100 PRO",
-    "ssdStorage": "Control your own CPU & RAM per-site",
+    "ssdStorage": "100GB Fast NVMe SSD Storage",
     "hostPrice": "£74.99/month",
     "websiteLimit": "100 cPanel Accounts",
     "mailBox": "Unlimited Email Accounts",
@@ -410,17 +322,21 @@
     "sslCert": "Free SSL Certificates",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": ["White Label Services"],
-    "additions2": [""]
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "67e33ae7-75f4-4c99-bf0e-5472c8c585cf"
+      "$oid": "75a4ec63-7765-45b6-8490-66d8181dcb63"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
     "packageTitle": "Reseller Account PRO 250 PRO",
-    "ssdStorage": "",
+    "ssdStorage": "250GB Fast NVMe SSD Storage",
     "hostPrice": "£146.99/month",
     "websiteLimit": "250 cPanel Accounts",
     "mailBox": "Unlimited Email Accounts",
@@ -428,12 +344,16 @@
     "sslCert": "Free SSL Certificates",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": ["White Label Services"],
-    "additions2": [""]
+    "additions1": [
+      "White Label Services"
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "1c53232f-2c66-4847-89cb-a71d2ef9a58b"
+      "$oid": "05d5c84a-7721-453a-91d7-d2b6e56e6d75"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -446,12 +366,16 @@
     "sslCert": "Let’s Encrypt SSL - Free",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "50910643-e72f-4725-a3e4-685c14624ddd"
+      "$oid": "07e78f11-ce23-4f41-934c-31fa9d5f6fec"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -464,12 +388,16 @@
     "sslCert": "Let’s Encrypt SSL - Free",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "d7a99e07-3c2f-4f5c-bcb1-400b88dc060b"
+      "$oid": "823f6989-901e-42d3-a542-1c6d7382041f"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -482,12 +410,16 @@
     "sslCert": "Let’s Encrypt SSL - Free",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   },
   {
     "_id": {
-      "$oid": "6f06aff3-e0f6-45b4-9b49-b30d3ac5441b"
+      "$oid": "f487d6c7-7267-4bd9-937b-80fdce195a36"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -500,7 +432,11 @@
     "sslCert": "Let’s Encrypt SSL - Free",
     "dealPrice": "",
     "greenHosting": false,
-    "additions1": [""],
-    "additions2": [""]
+    "additions1": [
+      ""
+    ],
+    "additions2": [
+      ""
+    ]
   }
 ]
