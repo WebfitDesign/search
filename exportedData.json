@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "bece8096-a85c-48cd-90e3-72159f959f33"
+      "$oid": "c0f0da21-62ac-45b7-9ca7-8c3b4608276d"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -23,7 +23,7 @@
   },
   {
     "_id": {
-      "$oid": "749d0b15-6871-428b-b2f3-077d930a103f"
+      "$oid": "f4ba8aae-62ff-4d1a-b22c-92b4ca928a25"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -37,15 +37,15 @@
     "dealPrice": "",
     "greenHosting": true,
     "additions1": [
-      ""
+      "Real-time scaling with just one click, exclusive to IONOS"
     ],
     "additions2": [
-      ""
+      "Premium 24/7 support with a personal consultant"
     ]
   },
   {
     "_id": {
-      "$oid": "7eceb11a-d482-4e4c-8a5b-8d2b50f67544"
+      "$oid": "088374ee-b8b9-42d6-8006-a4a016448a78"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -59,15 +59,15 @@
     "dealPrice": "",
     "greenHosting": true,
     "additions1": [
-      ""
+      "Real-time scaling with just one click, exclusive to IONOS"
     ],
     "additions2": [
-      ""
+      "Premium 24/7 support with a personal consultant"
     ]
   },
   {
     "_id": {
-      "$oid": "c6c4736f-c757-41ae-a2b4-ad07f4c1b1f9"
+      "$oid": "4992b051-9d71-44c2-8ed8-c2414f63c206"
     },
     "companyName": "Ionos",
     "logo": "https://sm.pcmag.com/t/pcmag_uk/review/i/ionos-web-/ionos-web-hosting_pm4k.1920.jpg",
@@ -81,15 +81,15 @@
     "dealPrice": "",
     "greenHosting": true,
     "additions1": [
-      ""
+      "Real-time scaling with just one click, exclusive to IONOS"
     ],
     "additions2": [
-      ""
+      "Premium 24/7 support with a personal consultant"
     ]
   },
   {
     "_id": {
-      "$oid": "cef804e5-3559-4eaa-8118-73ab0376922c"
+      "$oid": "59c7f1b4-ae68-4df3-a5d2-158d212d0cfa"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -111,7 +111,7 @@
   },
   {
     "_id": {
-      "$oid": "39f8e8d6-5c9d-43e2-82e4-f00731711920"
+      "$oid": "688227e3-0f0a-421a-8e8f-540e746f98d7"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -121,11 +121,11 @@
     "websiteLimit": "3",
     "mailBox": "2x",
     "freeDomain": "2x",
-    "sslCert": "",
+    "sslCert": "2x FREE 1-year SSL certificates",
     "dealPrice": "First 3 months\n£2\nper month\n\nthen £7 per month",
     "greenHosting": false,
     "additions1": [
-      ""
+      "30-day money-back guarantee"
     ],
     "additions2": [
       ""
@@ -133,7 +133,7 @@
   },
   {
     "_id": {
-      "$oid": "709cb0b6-9fbc-4e8f-b076-ad3e5b1f3179"
+      "$oid": "6da6293e-6a40-4740-8b21-bbcb84bc5873"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -143,11 +143,11 @@
     "websiteLimit": "10",
     "mailBox": "4x",
     "freeDomain": "3x",
-    "sslCert": "",
+    "sslCert": "3x FREE lifetime SSL certificates",
     "dealPrice": "First 6 months\n49p\nper month\n\nthen £12 per month",
     "greenHosting": false,
     "additions1": [
-      ""
+      "30-day money-back guarantee"
     ],
     "additions2": [
       ""
@@ -155,7 +155,7 @@
   },
   {
     "_id": {
-      "$oid": "633990f3-afba-436b-86da-edb3e258294e"
+      "$oid": "2741da6b-8576-43f6-9250-62a2e64af0d8"
     },
     "companyName": "Fasthosts",
     "logo": "https://ygo-assets-entities-emea.yougov.net/00a07d47-21f2-11e8-91d7-d17ce050fa91.jpg?ph=264",
@@ -165,11 +165,11 @@
     "websiteLimit": "100",
     "mailBox": "8x",
     "freeDomain": "5x",
-    "sslCert": "",
+    "sslCert": "5x FREE lifetime SSL certificates",
     "dealPrice": "First 3 months\n£8\nper month\n\nthen £18 per month",
     "greenHosting": false,
     "additions1": [
-      ""
+      "30-day money-back guarantee"
     ],
     "additions2": [
       ""
@@ -177,11 +177,11 @@
   },
   {
     "_id": {
-      "$oid": "76cbedef-cf6c-42d1-b360-93200b3becf0"
+      "$oid": "a979aa18-58a5-448e-9c45-13450b677188"
     },
     "companyName": "20i",
     "logo": "https://www.20i.com/assets/images/20i-logo.svg",
-    "packageTitle": "",
+    "packageTitle": "Reseller 50",
     "ssdStorage": "Unlimited",
     "hostPrice": "£39.99/month",
     "websiteLimit": "50",
@@ -199,11 +199,11 @@
   },
   {
     "_id": {
-      "$oid": "6c9c9146-b7e5-4e5a-b95b-e15707137bcb"
+      "$oid": "f3cf558f-ce71-4123-97ea-32bc026f333c"
     },
     "companyName": "20i",
     "logo": "https://www.20i.com/assets/images/20i-logo.svg",
-    "packageTitle": "",
+    "packageTitle": "Reseller 500",
     "ssdStorage": "Unlimited",
     "hostPrice": "£69.99/month",
     "websiteLimit": "500",
@@ -213,7 +213,7 @@
     "dealPrice": "First month £1",
     "greenHosting": false,
     "additions1": [
-      ""
+      "Unlimited SSD webspace, bandwidth, databases, SSL & email"
     ],
     "additions2": [
       ""
@@ -221,11 +221,11 @@
   },
   {
     "_id": {
-      "$oid": "e86aa7c8-f0dd-4e52-926b-079d3a98f70f"
+      "$oid": "4ed80dd7-c03c-46bd-a4d0-6cea085c8b9b"
     },
     "companyName": "20i",
     "logo": "https://www.20i.com/assets/images/20i-logo.svg",
-    "packageTitle": "",
+    "packageTitle": "Reseller Unlimited",
     "ssdStorage": "Unlimited",
     "hostPrice": "£99.99/month",
     "websiteLimit": "Unlimited",
@@ -235,7 +235,7 @@
     "dealPrice": "First month £1",
     "greenHosting": false,
     "additions1": [
-      ""
+      "Unlimited SSD webspace, bandwidth, databases, SSL & email"
     ],
     "additions2": [
       ""
@@ -243,7 +243,7 @@
   },
   {
     "_id": {
-      "$oid": "a53d3396-9460-4374-b656-7d70d30b8d56"
+      "$oid": "4dba9955-9ba7-47c4-a9f1-5ce29a3c01cc"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -265,7 +265,7 @@
   },
   {
     "_id": {
-      "$oid": "eb78d5d1-1b66-477a-bcfa-12df91ace93c"
+      "$oid": "539d461c-3aa9-46ec-8d7a-d40d6ba5ae87"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -287,7 +287,7 @@
   },
   {
     "_id": {
-      "$oid": "d017a7f1-f695-402b-8aab-25b8e407b008"
+      "$oid": "dba0ceb8-7f1b-4317-aadb-d5f20214b3d0"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -309,7 +309,7 @@
   },
   {
     "_id": {
-      "$oid": "2a4ca219-beb1-4065-b83b-d079f96904fc"
+      "$oid": "8a9b539c-1fac-4fab-82b2-5a756d756646"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -331,7 +331,7 @@
   },
   {
     "_id": {
-      "$oid": "75a4ec63-7765-45b6-8490-66d8181dcb63"
+      "$oid": "4554009c-0a8f-4f85-b4ef-5ed49e52541c"
     },
     "companyName": "Guru",
     "logo": "https://my.guru.co.uk/templates/gurunew/img/guru.svg",
@@ -353,7 +353,7 @@
   },
   {
     "_id": {
-      "$oid": "05d5c84a-7721-453a-91d7-d2b6e56e6d75"
+      "$oid": "2402a61c-24f7-4df1-9970-eebc6c5ef7b4"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -375,7 +375,7 @@
   },
   {
     "_id": {
-      "$oid": "07e78f11-ce23-4f41-934c-31fa9d5f6fec"
+      "$oid": "f0aadd1e-025e-423e-b145-1610868fd259"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -397,7 +397,7 @@
   },
   {
     "_id": {
-      "$oid": "823f6989-901e-42d3-a542-1c6d7382041f"
+      "$oid": "c618d130-5ea3-4dee-9a26-ec625df6e19e"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
@@ -419,7 +419,7 @@
   },
   {
     "_id": {
-      "$oid": "f487d6c7-7267-4bd9-937b-80fdce195a36"
+      "$oid": "a480dbe3-915e-4898-9ecc-269a879f86f5"
     },
     "companyName": "OVH Cloud",
     "logo": "https://www.drupal.org/files/styles/grid-4-2x/public/OVHcloud_stacked_logo_fullcolor_RGB.png?itok=_NNzxTZa",
